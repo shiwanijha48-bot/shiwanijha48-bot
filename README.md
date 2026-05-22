@@ -60,19 +60,26 @@ A property listing and house hunting application.
 
 ## 📈 GitHub Stats
 
-![Shiwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiwanijha48-bot\&show_icons=true\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiwanijha48-bot&show_icons=true&theme=radical" height="180"/>
+</p>
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwanijha48-bot\&layout=compact\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwanijha48-bot&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shiwanijha48-bot\&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shiwanijha48-bot&theme=radical" height="180"/>
+</p>
+
 
 ---
 
