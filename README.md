@@ -1,33 +1,32 @@
 # Hi, I'm Shiwani Jha 👋
 
-💻 Python Developer | Django Enthusiast | DSA Learner
-📚 Passionate about coding, problem solving, and building real-world projects
-🚀 Currently improving my skills in Full Stack Development
+# 💻 Python Developer | Django Learner
+# 📚 Passionate about DSA, Web Development, and Building Real Projects
+# 🚀 Exploring Full Stack Development 
 
 ---
 
 ## 🌱 Currently Learning
 
 * Data Structures & Algorithms
-* Django Web Development
+* Django Backend Development
 * Git & GitHub
-* Full Stack Development
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 * Python
 
-### Web Development
+### 🌐 Web Development
 
 * Django
 * HTML
 * CSS
 
-### Tools
+### ⚙️ Tools & Platforms
 
 * Git
 * GitHub
@@ -39,29 +38,50 @@
 
 ### 🛒 Django Ecommerce Website
 
-A full-stack ecommerce web application built using Django.
+A full-stack ecommerce platform built using Django with authentication, cart system, and admin dashboard.
 
-### 🧠 LeetCode Solutions
+### 🧠 LeetCode & DSA Solutions
 
-Collection of DSA and problem-solving questions.
+Collection of coding problems and DSA practice solutions.
 
 ### 🧮 Calculator Tkinter
 
-Desktop calculator application using Python Tkinter.
+Desktop calculator application developed using Python Tkinter.
+
+### 🎤 Offline Hindi Voice Assistant
+
+Python-based offline voice assistant project.
+
+### 🏠 HouseHunt MERN App
+
+A property listing and house hunting application.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiwanijha48-bot\&show_icons=true\&theme=tokyonight)
+![Shiwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiwanijha48-bot\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwanijha48-bot\&layout=compact\&theme=tokyonight)
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwanijha48-bot\&layout=compact\&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shiwanijha48-bot\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shiwanijha48-bot\&theme=radical)
+
+---
+
+## 🎯 Goals for 2026
+
+* Build more full-stack projects
+* Improve problem-solving skills
+* Learn advanced backend development
+* Become a strong software developer
 
 ---
 
@@ -69,7 +89,6 @@ Desktop calculator application using Python Tkinter.
 
 * GitHub: https://github.com/shiwanijha48-bot
 * LinkedIn: 
-
 ---
 
-⭐ “Consistency is more important than perfection.”
+⭐ “Consistency and curiosity make great developers.”
