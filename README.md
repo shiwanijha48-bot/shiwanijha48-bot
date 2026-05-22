@@ -1,8 +1,8 @@
 # Hi, I'm Shiwani Jha 👋
 
-# 💻 Python Developer | Django Learner
-# 📚 Passionate about DSA, Web Development, and Building Real Projects
-# 🚀 Exploring Full Stack Development 
+* 💻 Python Developer | Django Learner
+* 📚 Passionate about DSA, Web Development, and Building Real Projects
+* 🚀 Exploring Full Stack Development 
 
 ---
 
@@ -61,7 +61,7 @@ A property listing and house hunting application.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiwanijha48-bot&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiwanijha48-bot&theme=github_dark" />
 </p>
 
 ---
@@ -69,8 +69,9 @@ A property listing and house hunting application.
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwanijha48-bot&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiwanijha48-bot&theme=github_dark" />
 </p>
+
 
 ---
 
