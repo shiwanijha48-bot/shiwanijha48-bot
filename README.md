@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Shiwani Jha 👋
 
-<!--
-**shiwanijha48-bot/shiwanijha48-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | Django Enthusiast | DSA Learner
+📚 Passionate about coding, problem solving, and building real-world projects
+🚀 Currently improving my skills in Full Stack Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Django Web Development
+* Git & GitHub
+* Full Stack Development
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+
+### Web Development
+
+* Django
+* HTML
+* CSS
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Django Ecommerce Website
+
+A full-stack ecommerce web application built using Django.
+
+### 🧠 LeetCode Solutions
+
+Collection of DSA and problem-solving questions.
+
+### 🧮 Calculator Tkinter
+
+Desktop calculator application using Python Tkinter.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiwanijha48-bot\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwanijha48-bot\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shiwanijha48-bot\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/shiwanijha48-bot
+* LinkedIn: 
+
+---
+
+⭐ “Consistency is more important than perfection.”
