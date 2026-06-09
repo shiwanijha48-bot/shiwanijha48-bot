@@ -113,13 +113,6 @@
 </p>
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiwanijha48-bot&theme=tokyonight&no-frame=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
----
 
 ## 🎯 Goals for 2026
 
