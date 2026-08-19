@@ -1,7 +1,7 @@
 # Hi, I'm Shiwani Jha 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Python+%7C+Django+%7C+TypeScript;Full+Stack+Developer;DSA+%26+Problem+Solving;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Python+%7C+Django;Full+Stack+Developer;DSA+%26+Problem+Solving;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@ I'm a **Computer Science & Engineering student** and developer who enjoys turnin
 
 * 💻 Building full-stack web applications
 * 🐍 Strong interest in Python & backend development
-* ⚡ Exploring TypeScript, React & Next.js
 * 🧠 Practicing Data Structures & Algorithms
 * 🤖 Exploring AI-powered applications
 * 🚀 Interested in building projects that solve real-world problems
