@@ -159,7 +159,6 @@ Interactive space-themed website exploring the universe through a visually engag
 Currently focusing on:
 * 🧠 Advanced DSA
 * 🌐 Django & backend development
-* ⚡ Next.js & TypeScript
 * 📊 NumPy & Pandas
 * 🤖 Machine Learning fundamentals
 * 🗄️ SQL & databases
