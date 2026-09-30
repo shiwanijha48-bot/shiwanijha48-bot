@@ -172,17 +172,6 @@ Currently focusing on:
 * 🚀 Built and deployed real-world full-stack applications
 * 💻 Consistent DSA & competitive programming practice
 
----
-
-## 🎯 2026 Goals
-
-* [ ] Strengthen DSA & problem-solving
-* [ ] Build production-ready full-stack applications
-* [ ] Become stronger in backend development
-* [ ] Learn Machine Learning fundamentals
-* [ ] Deploy more real-world projects
-* [ ] Contribute to open-source projects
-* [ ] Become internship & placement ready
 
 ---
 
