@@ -22,7 +22,6 @@ I'm a **Computer Science & Engineering student** and developer who enjoys turnin
 * 💻 Building full-stack web applications
 * 🐍 Strong interest in Python & backend development
 * 🧠 Practicing Data Structures & Algorithms
-* 🤖 Exploring AI-powered applications
 * 🚀 Interested in building projects that solve real-world problems
 * 📚 Always learning, building and improving
 
