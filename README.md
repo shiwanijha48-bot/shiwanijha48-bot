@@ -24,7 +24,6 @@ I'm a **Computer Science & Engineering student** and developer who enjoys turnin
 * 🧠 Practicing Data Structures & Algorithms
 * 🚀 Interested in building projects that solve real-world problems
 * 📚 Always learning, building and improving
-
 ---
 
 ## 🛠️ Tech Stack
